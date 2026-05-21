@@ -1,0 +1,773 @@
+===== TextTrace init =====
+TEXTTRACE_LEVEL=3
+TEXTTRACE_FILE=C:\ProgramData\hershey-fonts\text_trace_compare1.log
+==========================
+
+[Trace] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\WinMain.cpp:89 (InitTextTraceForcedOrDie): BOOT: TextTrace initialized. TT_LEVEL=3
+[Trace] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\WinMain.cpp:295 (WinMain): Loading font futural...
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:192 (hershey_jhf_font_load): font_load file=C:\ProgramData\hershey-fonts/futural.jhf
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=11)=12345  1JZ
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=1 leftpos=-8 rightpos=8
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=16 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=27)=12345  9MWRFRT RRYQZR[SZRY
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=9 leftpos=-5 rightpos=5
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=10 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=5 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=8 j=3 npathverts=5 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=5 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=21)=12345  6JZNFNM RVFVM
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=6 leftpos=-8 rightpos=8
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=16 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=8 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=3 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=8 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=33)=12345 12H]SBLb RYBRb RLOZO RKUYU
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=12 leftpos=-10 rightpos=11
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=21 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=3 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=8 j=6 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=11 j=9 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=63)=12345 27H\PBP_ RTBT_ RYIWGTFPFMGKIKKLMMNOOUQWRXSYUYXWZT[P[MZKX
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=27 leftpos=-10 rightpos=10
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=20 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=3 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=26 j=6 npathverts=20 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=73)=12345 32F^[FI[ RNFPHPJOLMMKMIKIIJGLFNFPGSHVHYG[F RWTUUTWTYV[X[ZZ[X[VYTWT
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=32 leftpos=-12 rightpos=12
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=24 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=12 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=19 j=3 npathverts=16 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=12 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=31 j=20 npathverts=11 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=12 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=79)=12345 35E_\O\N[MZMYNXPVUTXRZP[L[JZIYHWHUISJRQNRMSKSIRGPFNGMIMKNNPQUXWZY[[[\Z\Y
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=35 leftpos=-13 rightpos=13
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=26 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=34 j=0 npathverts=34 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=13 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=25)=12345  8MWRHQGRFSGSIRKQL
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=8 leftpos=-5 rightpos=5
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=10 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=7 j=0 npathverts=7 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=5 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=31)=12345 11KYVBTDRGPKOPOTPYR]T`Vb
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=11 leftpos=-7 rightpos=7
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=14 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=10 j=0 npathverts=10 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=7 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=31)=12345 11KYNBPDRGTKUPUTTYR]P`Nb
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=11 leftpos=-7 rightpos=7
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=14 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=10 j=0 npathverts=10 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=7 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=27)=12345  9JZRLRX RMOWU RWOMU
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=9 leftpos=-8 rightpos=8
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=16 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=8 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=3 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=8 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=8 j=6 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=8 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=21)=12345  6E_RIR[ RIR[R
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=6 leftpos=-13 rightpos=13
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=26 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=13 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=3 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=13 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=25)=12345  8NVSWRXQWRVSWSYQ[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=8 leftpos=-4 rightpos=4
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=8 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=7 j=0 npathverts=7 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=4 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=15)=12345  3E_IR[R
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=3 leftpos=-13 rightpos=13
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=26 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=13 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=21)=12345  6NVRVQWRXSWRV
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=6 leftpos=-4 rightpos=4
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=8 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=0 npathverts=5 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=4 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=15)=12345  3G][BIb
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=3 leftpos=-11 rightpos=11
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=22 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=11 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=45)=12345 18H\QFNGLJKOKRLWNZQ[S[VZXWYRYOXJVGSFQF
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=18 leftpos=-10 rightpos=10
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=20 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=17 j=0 npathverts=17 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=19)=12345  5H\NJPISFS[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=5 leftpos=-10 rightpos=10
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=20 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=4 j=0 npathverts=4 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=39)=12345 15H\LKLJMHNGPFTFVGWHXJXLWNUQK[Y[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=15 leftpos=-10 rightpos=10
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=20 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=14 j=0 npathverts=14 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=41)=12345 16H\MFXFRNUNWOXPYSYUXXVZS[P[MZLYKW
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=16 leftpos=-10 rightpos=10
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=20 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=15 j=0 npathverts=15 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=23)=12345  7H\UFKTZT RUFU[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=7 leftpos=-10 rightpos=10
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=20 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=3 j=0 npathverts=3 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=6 j=4 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=45)=12345 18H\WFMFLOMNPMSMVNXPYSYUXXVZS[P[MZLYKW
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=18 leftpos=-10 rightpos=10
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=20 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=17 j=0 npathverts=17 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=57)=12345 24H\XIWGTFRFOGMJLOLTMXOZR[S[VZXXYUYTXQVOSNRNOOMQLT
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=24 leftpos=-10 rightpos=10
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=20 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=23 j=0 npathverts=23 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=21)=12345  6H\YFO[ RKFYF
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=6 leftpos=-10 rightpos=10
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=20 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=3 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=69)=12345 30H\PFMGLILKMMONSOVPXRYTYWXYWZT[P[MZLYKWKTLRNPQOUNWMXKXIWGTFPF
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=30 leftpos=-10 rightpos=10
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=20 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=29 j=0 npathverts=29 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=57)=12345 24H\XMWPURRSQSNRLPKMKLLINGQFRFUGWIXMXRWWUZR[P[MZLX
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=24 leftpos=-10 rightpos=10
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=20 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=23 j=0 npathverts=23 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=33)=12345 12NVROQPRQSPRO RRVQWRXSWRV
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=12 leftpos=-4 rightpos=4
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=8 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=0 npathverts=5 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=4 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=11 j=6 npathverts=5 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=4 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=37)=12345 14NVROQPRQSPRO RSWRXQWRVSWSYQ[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=14 leftpos=-4 rightpos=4
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=8 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=0 npathverts=5 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=4 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=13 j=6 npathverts=7 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=4 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=17)=12345  4F^ZIJRZ[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=4 leftpos=-12 rightpos=12
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=24 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=3 j=0 npathverts=3 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=12 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=21)=12345  6E_IO[O RIU[U
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=6 leftpos=-13 rightpos=13
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=26 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=13 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=3 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=13 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=17)=12345  4F^JIZRJ[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=4 leftpos=-12 rightpos=12
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=24 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=3 j=0 npathverts=3 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=12 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=51)=12345 21I[LKLJMHNGPFTFVGWHXJXLWNVORQRT RRYQZR[SZRY
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=21 leftpos=-9 rightpos=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=18 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=14 j=0 npathverts=14 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=20 j=15 npathverts=5 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=121)=12345 56E`WNVLTKQKOLNMMPMSNUPVSVUUVS RQKOMNPNSOUPV RWKVSVUXVZV\T]Q]O\L[JYHWGTFQFNGLHJJILHOHRIUJWLYNZQ[T[WZYYZX RXKWSWUXV
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=56 leftpos=-13 rightpos=14
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=27 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=13 j=0 npathverts=13 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=13 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=20 j=14 npathverts=6 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=13 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=50 j=21 npathverts=29 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=13 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=55 j=51 npathverts=4 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=13 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=27)=12345  9I[RFJ[ RRFZ[ RMTWT
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=9 leftpos=-9 rightpos=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=18 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=3 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=8 j=6 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=57)=12345 24G\KFK[ RKFTFWGXHYJYLXNWOTP RKPTPWQXRYTYWXYWZT[K[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=24 leftpos=-11 rightpos=10
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=21 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=11 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=12 j=3 npathverts=9 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=11 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=23 j=13 npathverts=10 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=11 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=47)=12345 19H]ZKYIWGUFQFOGMILKKNKSLVMXOZQ[U[WZYXZV
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=19 leftpos=-10 rightpos=11
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=21 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=18 j=0 npathverts=18 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=41)=12345 16G\KFK[ RKFRFUGWIXKYNYSXVWXUZR[K[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=16 leftpos=-11 rightpos=10
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=21 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=11 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=15 j=3 npathverts=12 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=11 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=33)=12345 12H[LFL[ RLFYF RLPTP RL[Y[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=12 leftpos=-10 rightpos=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=19 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=3 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=8 j=6 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=11 j=9 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=27)=12345  9HZLFL[ RLFYF RLPTP
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=9 leftpos=-10 rightpos=8
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=18 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=3 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=8 j=6 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=55)=12345 23H]ZKYIWGUFQFOGMILKKNKSLVMXOZQ[U[WZYXZVZS RUSZS
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=23 leftpos=-10 rightpos=11
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=21 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=19 j=0 npathverts=19 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=22 j=20 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=27)=12345  9G]KFK[ RYFY[ RKPYP
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=9 leftpos=-11 rightpos=11
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=22 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=11 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=3 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=11 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=8 j=6 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=11 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=15)=12345  3NVRFR[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=3 leftpos=-4 rightpos=4
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=8 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=4 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=31)=12345 11JZVFVVUYTZR[P[NZMYLVLT
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=11 leftpos=-8 rightpos=8
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=16 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=10 j=0 npathverts=10 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=8 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=27)=12345  9G\KFK[ RYFKT RPOY[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=9 leftpos=-11 rightpos=10
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=21 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=11 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=3 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=11 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=8 j=6 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=11 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=21)=12345  6HYLFL[ RL[X[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=6 leftpos=-10 rightpos=7
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=17 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=3 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=33)=12345 12F^JFJ[ RJFR[ RZFR[ RZFZ[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=12 leftpos=-12 rightpos=12
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=24 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=12 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=3 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=12 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=8 j=6 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=12 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=11 j=9 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=12 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=27)=12345  9G]KFK[ RKFY[ RYFY[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=9 leftpos=-11 rightpos=11
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=22 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=11 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=3 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=11 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=8 j=6 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=11 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=53)=12345 22G]PFNGLIKKJNJSKVLXNZP[T[VZXXYVZSZNYKXIVGTFPF
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=22 leftpos=-11 rightpos=11
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=22 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=21 j=0 npathverts=21 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=11 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=37)=12345 14G\KFK[ RKFTFWGXHYJYMXOWPTQKQ
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=14 leftpos=-11 rightpos=10
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=21 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=11 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=13 j=3 npathverts=10 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=11 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=59)=12345 25G]PFNGLIKKJNJSKVLXNZP[T[VZXXYVZSZNYKXIVGTFPF RSWY]
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=25 leftpos=-11 rightpos=11
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=22 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=21 j=0 npathverts=21 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=11 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=24 j=22 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=11 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=43)=12345 17G\KFK[ RKFTFWGXHYJYLXNWOTPKP RRPY[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=17 leftpos=-11 rightpos=10
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=21 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=11 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=13 j=3 npathverts=10 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=11 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=16 j=14 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=11 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=51)=12345 21H\YIWGTFPFMGKIKKLMMNOOUQWRXSYUYXWZT[P[MZKX
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=21 leftpos=-10 rightpos=10
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=20 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=20 j=0 npathverts=20 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=21)=12345  6JZRFR[ RKFYF
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=6 leftpos=-8 rightpos=8
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=16 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=8 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=3 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=8 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=31)=12345 11G]KFKULXNZQ[S[VZXXYUYF
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=11 leftpos=-11 rightpos=11
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=22 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=10 j=0 npathverts=10 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=11 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=21)=12345  6I[JFR[ RZFR[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=6 leftpos=-9 rightpos=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=18 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=3 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=33)=12345 12F^HFM[ RRFM[ RRFW[ R\FW[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=12 leftpos=-12 rightpos=12
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=24 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=12 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=3 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=12 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=8 j=6 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=12 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=11 j=9 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=12 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=21)=12345  6H\KFY[ RYFK[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=6 leftpos=-10 rightpos=10
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=20 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=3 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=23)=12345  7I[JFRPR[ RZFRP
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=7 leftpos=-9 rightpos=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=18 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=3 j=0 npathverts=3 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=6 j=4 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=27)=12345  9H\YFK[ RKFYF RK[Y[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=9 leftpos=-10 rightpos=10
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=20 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=3 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=8 j=6 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=33)=12345 12KYOBOb RPBPb ROBVB RObVb
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=12 leftpos=-7 rightpos=7
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=14 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=7 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=3 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=7 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=8 j=6 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=7 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=11 j=9 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=7 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=15)=12345  3KYKFY^
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=3 leftpos=-7 rightpos=7
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=14 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=7 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=33)=12345 12KYTBTb RUBUb RNBUB RNbUb
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=12 leftpos=-7 rightpos=7
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=14 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=7 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=3 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=7 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=8 j=6 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=7 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=11 j=9 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=7 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=21)=12345  6JZRDJR RRDZR
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=6 leftpos=-8 rightpos=8
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=16 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=8 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=3 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=8 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=15)=12345  3I[Ib[b
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=3 leftpos=-9 rightpos=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=18 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=25)=12345  8NVSKQMQORPSORNQO
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=8 leftpos=-4 rightpos=4
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=8 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=7 j=0 npathverts=7 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=4 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=45)=12345 18I\XMX[ RXPVNTMQMONMPLSLUMXOZQ[T[VZXX
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=18 leftpos=-9 rightpos=10
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=19 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=17 j=3 npathverts=14 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=45)=12345 18H[LFL[ RLPNNPMSMUNWPXSXUWXUZS[P[NZLX
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=18 leftpos=-10 rightpos=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=19 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=17 j=3 npathverts=14 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=39)=12345 15I[XPVNTMQMONMPLSLUMXOZQ[T[VZXX
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=15 leftpos=-9 rightpos=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=18 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=14 j=0 npathverts=14 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=45)=12345 18I\XFX[ RXPVNTMQMONMPLSLUMXOZQ[T[VZXX
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=18 leftpos=-9 rightpos=10
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=19 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=17 j=3 npathverts=14 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=45)=12345 18I[LSXSXQWOVNTMQMONMPLSLUMXOZQ[T[VZXX
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=18 leftpos=-9 rightpos=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=18 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=17 j=0 npathverts=17 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=27)=12345  9MYWFUFSGRJR[ ROMVM
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=9 leftpos=-5 rightpos=7
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=12 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=0 npathverts=5 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=5 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=8 j=6 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=5 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=55)=12345 23I\XMX]W`VaTbQbOa RXPVNTMQMONMPLSLUMXOZQ[T[VZXX
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=23 leftpos=-9 rightpos=10
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=19 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=7 j=0 npathverts=7 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=22 j=8 npathverts=14 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=31)=12345 11I\MFM[ RMQPNRMUMWNXQX[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=11 leftpos=-9 rightpos=10
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=19 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=10 j=3 npathverts=7 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=27)=12345  9NVQFRGSFREQF RRMR[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=9 leftpos=-4 rightpos=4
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=8 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=0 npathverts=5 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=4 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=8 j=6 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=4 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=33)=12345 12MWRFSGTFSERF RSMS^RaPbNb
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=12 leftpos=-5 rightpos=5
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=10 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=0 npathverts=5 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=5 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=11 j=6 npathverts=5 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=5 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=27)=12345  9IZMFM[ RWMMW RQSX[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=9 leftpos=-9 rightpos=8
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=17 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=3 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=8 j=6 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=15)=12345  3NVRFR[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=3 leftpos=-4 rightpos=4
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=8 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=4 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=47)=12345 19CaGMG[ RGQJNLMOMQNRQR[ RRQUNWMZM\N]Q][
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=19 leftpos=-15 rightpos=15
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=30 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=15 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=10 j=3 npathverts=7 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=15 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=18 j=11 npathverts=7 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=15 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=31)=12345 11I\MMM[ RMQPNRMUMWNXQX[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=11 leftpos=-9 rightpos=10
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=19 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=10 j=3 npathverts=7 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=45)=12345 18I\QMONMPLSLUMXOZQ[T[VZXXYUYSXPVNTMQM
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=18 leftpos=-9 rightpos=10
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=19 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=17 j=0 npathverts=17 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=45)=12345 18H[LMLb RLPNNPMSMUNWPXSXUWXUZS[P[NZLX
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=18 leftpos=-10 rightpos=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=19 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=17 j=3 npathverts=14 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=10 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=45)=12345 18I\XMXb RXPVNTMQMONMPLSLUMXOZQ[T[VZXX
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=18 leftpos=-9 rightpos=10
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=19 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=17 j=3 npathverts=14 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=27)=12345  9KXOMO[ ROSPPRNTMWM
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=9 leftpos=-7 rightpos=6
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=13 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=7 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=8 j=3 npathverts=5 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=7 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=45)=12345 18J[XPWNTMQMNNMPNRPSUTWUXWXXWZT[Q[NZMX
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=18 leftpos=-8 rightpos=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=17 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=17 j=0 npathverts=17 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=8 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=27)=12345  9MYRFRWSZU[W[ ROMVM
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=9 leftpos=-5 rightpos=7
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=12 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=0 npathverts=5 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=5 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=8 j=6 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=5 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=31)=12345 11I\MMMWNZP[S[UZXW RXMX[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=11 leftpos=-9 rightpos=10
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=19 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=7 j=0 npathverts=7 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=10 j=8 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=9 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=21)=12345  6JZLMR[ RXMR[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=6 leftpos=-8 rightpos=8
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=16 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=8 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=3 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=8 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=33)=12345 12G]JMN[ RRMN[ RRMV[ RZMV[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=12 leftpos=-11 rightpos=11
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=22 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=11 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=3 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=11 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=8 j=6 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=11 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=11 j=9 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=11 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=21)=12345  6J[MMX[ RXMM[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=6 leftpos=-8 rightpos=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=17 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=8 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=3 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=8 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=29)=12345 10JZLMR[ RXMR[P_NaLbKb
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=10 leftpos=-8 rightpos=8
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=16 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=8 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=9 j=3 npathverts=6 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=8 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=27)=12345  9J[XMM[ RMMXM RM[X[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=9 leftpos=-8 rightpos=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=17 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=8 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=5 j=3 npathverts=2 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=8 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=8 j=6 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=8 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=89)=12345 40KYTBRCQDPFPHQJRKSMSOQQ RRCQEQGRISJTLTNSPORSTTVTXSZR[Q]Q_Ra RQSSUSWRYQZP\P^Q`RaTb
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=40 leftpos=-7 rightpos=7
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=14 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=10 j=0 npathverts=10 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=7 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=28 j=11 npathverts=17 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=7 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=39 j=29 npathverts=10 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=7 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=15)=12345  3NVRBRb
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=3 leftpos=-4 rightpos=4
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=8 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=2 j=0 npathverts=2 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=4 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=89)=12345 40KYPBRCSDTFTHSJRKQMQOSQ RRCSESGRIQJPLPNQPURQTPVPXQZR[S]S_Ra RSSQUQWRYSZT\T^S`RaPb
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=40 leftpos=-7 rightpos=7
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=14 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=10 j=0 npathverts=10 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=7 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=28 j=11 npathverts=17 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=7 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=39 j=29 npathverts=10 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=7 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=57)=12345 24F^IUISJPLONOPPTSVTXTZS[Q RISJQLPNPPQTTVUXUZT[Q[O
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=24 leftpos=-12 rightpos=12
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=24 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=11 j=0 npathverts=11 (penup=spaceR)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=12 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=23 j=12 npathverts=11 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=12 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:60 (hershey_jhf_load_glyph): load_glyph raw_line(len=79)=12345 35JZJFJ[K[KFLFL[M[MFNFN[O[OFPFP[Q[QFRFR[S[SFTFT[U[UFVFV[W[WFXFX[Y[YFZFZ[
+
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:98 (hershey_jhf_load_glyph): glyphnum=12345 nverts_raw=35 leftpos=-8 rightpos=8
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:115 (hershey_jhf_load_glyph):   computed width=16 (right-left)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:129 (hershey_jhf_load_glyph):   path_split: i=34 j=0 npathverts=34 (penup=end)
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:152 (hershey_jhf_load_glyph):     offsets: xoffset=8 yoffset=9
+[Hershey] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\hersheyfont.c:221 (hershey_jhf_font_load): font_load complete
+[Trace] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\WinMain.cpp:302 (WinMain): Font loaded OK.
+[Trace] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\WinMain.cpp:308 (WinMain): Entering main loop.
+[Trace] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\WinMain.cpp:326 (WinMain): Resize applied: 1280x720
+[Trace] C:\Users\erics\source\repos\Win32-OpenGL-GLMText-WordWrap-Merge1-Logging\WinMain.cpp:341 (WinMain): Exiting.

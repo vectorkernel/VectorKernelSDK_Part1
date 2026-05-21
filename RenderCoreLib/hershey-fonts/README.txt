@@ -1,0 +1,1 @@
+C:\ProgramData\hershey-fonts

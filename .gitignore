@@ -1,0 +1,23 @@
+# Build outputs
+x64/
+Debug/
+Release/
+*.obj
+*.pch
+*.pdb
+*.ilk
+
+# Visual Studio
+.vs/
+*.VC.db
+
+# vcpkg
+vcpkg_installed/
+
+# User files
+*.user
+*.suo
+
+# CMake / temp
+out/
+build/
